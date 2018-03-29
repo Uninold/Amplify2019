@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/slide_home"
+        android:title="Home"
+        android:icon="@drawable/ic_home_black_24dp"
+        />
+    <item
+        android:id="@+id/slide_history"
+        android:title="History"
+        android:icon="@drawable/clinic_history"
+    />
+
+    <item
+        android:id="@+id/slide_transac"
+        android:title="Transaction"
+        android:icon="@drawable/safe_transaction"/>
+    <item
+        android:id="@+id/slide_proj"
+        android:title="My Projects"
+        android:icon="@drawable/man_user"/>
+    <item
+        android:id="@+id/slide_rank"
+        android:title="Rank"
+        android:icon="@drawable/three_stars"/>
+    <item
+        android:id="@+id/slide_contact"
+        android:title="Contact"
+        android:icon="@drawable/notebook_contacts"/>
+    <item
+        android:id="@+id/slide_settings"
+        android:title="Settings"
+        android:icon="@drawable/ic_settings"/>
+    <item
+        android:id="@+id/slide_log_out"
+        android:title="Logout"
+        android:icon="@drawable/logout"/>
+</menu>

@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <!--<style name="CustomCollapse" parent="Theme.AppCompat.Light.NoActionBar">-->
+        <!--<item name="colorPrimary">@color/toolbarColor</item>-->
+    <!--</style>-->
+    <!--<style name="CustomTitle" parent="android:TextAppearance">-->
+        <!--<item name="android:textSize">18sp</item>-->
+        <!--<item name="android:textColor">@color/greyText</item>-->
+        <!--<item name="android:layout_gravity">center</item>-->
+        <!--<item name="android:fontFamily">font/montserrat_bold.otf</item>-->
+    <!--</style>-->
+
+</resources>
